@@ -1,4 +1,4 @@
-public class StopAt42
+public class LifeUniEverything
 {
 public static void main (String[] args) throws java.lang.Exception
 {
