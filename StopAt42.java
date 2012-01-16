@@ -1,4 +1,4 @@
-public class Main
+public class StopAt42
 {
 public static void main (String[] args) throws java.lang.Exception
 {
